@@ -1,0 +1,2640 @@
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.
+Traceback (most recent call last):
+  File "/Users/pavelbudnik/tradingview_bot/main.py", line 5, in <module>
+    from bot import send_alert
+  File "/Users/pavelbudnik/tradingview_bot/bot.py", line 6, in <module>
+    bot = Bot(token=BOT_TOKEN)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/client/bot.py", line 270, in __init__
+    validate_token(token)
+  File "/Users/pavelbudnik/tradingview_bot/venv/lib/python3.9/site-packages/aiogram/utils/token.py", line 17, in validate_token
+    raise TokenValidationError(
+aiogram.utils.token.TokenValidationError: Token is invalid! It must be 'str' type instead of <class 'NoneType'> type.

@@ -1,0 +1,7 @@
+import asyncio
+from bot import send_alert
+
+async def test():
+    await send_alert("Привет! Бот работает!")
+
+asyncio.run(test())

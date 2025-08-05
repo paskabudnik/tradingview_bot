@@ -1,5 +1,13 @@
 # config.py
-import os
 
-BOT_TOKEN = os.getenv("8353087504:AAF4BUYhI6PdwvTLF7iprRvINXXqwywEA6Y")
-CHAT_ID = os.getenv ("547057339")
+import os
+from dotenv import load_dotenv
+
+load_dotenv()  # <--- обязательно до os.getenv
+
+BOT_TOKEN = os.getenv("BOT_TOKEN")
+CHAT_ID = os.getenv("CHAT_ID")
+
+print(f"DEBUG BOT_TOKEN: {BOT_TOKEN}")
+print(f"DEBUG CHAT_ID: {CHAT_ID}")
+
