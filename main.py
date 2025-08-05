@@ -1,4 +1,5 @@
 from fastapi import FastAPI, Request, Depends
+from fastapi.templating import Jinja2Templates
 from sqlalchemy.orm import Session
 from bot import send_alert
 import uvicorn
@@ -7,6 +8,7 @@ from models import Signal
 from database import SessionLocal, init_db
 
 app = FastAPI()
+templates = Jinja2Templates(directory="templates")  # Указываем папку с шаблонами
 
 init_db()
 
@@ -22,10 +24,8 @@ async def tradingview_webhook(request: Request, db: Session = Depends(get_db)):
     payload = await request.json()
     msg = "📉 Новый сигнал от TradingView:\n" + "\n".join(f"{k}: {v}" for k, v in payload.items())
 
-    # Отправляем сообщение в Telegram
     await send_alert(msg)
 
-    # Сохраняем сигнал в базу
     new_signal = Signal(signal_type=payload.get("type", "unknown"), description=msg)
     db.add(new_signal)
     db.commit()
@@ -35,9 +35,15 @@ async def tradingview_webhook(request: Request, db: Session = Depends(get_db)):
 
 @app.get("/signals")
 def read_signals(db: Session = Depends(get_db)):
-    signals = db.query(Signal).all()
-    return signals
+    return db.query(Signal).all()
+
+# ✅ Новый маршрут для админ-панели
+@app.get("/admin")
+def admin_panel(request: Request, db: Session = Depends(get_db)):
+    signals = db.query(Signal).order_by(Signal.timestamp.desc()).all()
+    return templates.TemplateResponse("admin.html", {"request": request, "signals": signals})
 
 if __name__ == "__main__":
     uvicorn.run("main:app", host="0.0.0.0", port=8000)
+
 
