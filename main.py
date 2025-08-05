@@ -41,8 +41,9 @@ def read_signals(db: Session = Depends(get_db)):
 # Новый маршрут для админ-панели с указанием response_class
 @app.get("/admin", response_class=HTMLResponse)
 def admin_panel(request: Request, db: Session = Depends(get_db)):
-    signals = db.query(Signal).order_by(Signal.timestamp.desc()).all()
+    signals = db.query(Signal).order_by(Signal.created_at.desc()).all()
     return templates.TemplateResponse("admin.html", {"request": request, "signals": signals})
+
 
 if __name__ == "__main__":
     uvicorn.run("main:app", host="0.0.0.0", port=8000)
