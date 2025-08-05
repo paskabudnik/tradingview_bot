@@ -1,5 +1,6 @@
 from fastapi import FastAPI, Request, Depends
 from fastapi.templating import Jinja2Templates
+from fastapi.responses import HTMLResponse
 from sqlalchemy.orm import Session
 from bot import send_alert
 import uvicorn
@@ -8,7 +9,7 @@ from models import Signal
 from database import SessionLocal, init_db
 
 app = FastAPI()
-templates = Jinja2Templates(directory="templates")  # Указываем папку с шаблонами
+templates = Jinja2Templates(directory="templates")  # Папка с шаблонами
 
 init_db()
 
@@ -37,13 +38,12 @@ async def tradingview_webhook(request: Request, db: Session = Depends(get_db)):
 def read_signals(db: Session = Depends(get_db)):
     return db.query(Signal).all()
 
-# ✅ Новый маршрут для админ-панели
-@app.get("/admin")
+# Новый маршрут для админ-панели с указанием response_class
+@app.get("/admin", response_class=HTMLResponse)
 def admin_panel(request: Request, db: Session = Depends(get_db)):
     signals = db.query(Signal).order_by(Signal.timestamp.desc()).all()
     return templates.TemplateResponse("admin.html", {"request": request, "signals": signals})
 
 if __name__ == "__main__":
     uvicorn.run("main:app", host="0.0.0.0", port=8000)
-
 
