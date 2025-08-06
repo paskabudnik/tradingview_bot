@@ -69,8 +69,8 @@ async def send_alert(message: str):
     db.close()
 
 # Запуск бота
-async def main():
-    await dp.start_polling(bot)
+##async def main():
+    ##await dp.start_polling(bot)
 
 
 
